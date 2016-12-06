@@ -11,7 +11,7 @@ For the theoretical backgound see the following report in the above repository:
 
 The repository contains a basic implementation of the engine and the recommender model.
 
-Recommender engine
+Recommendation engine
 --------------------
 
 The engine implements filtering, prediction and ranking.
