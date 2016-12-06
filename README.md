@@ -48,9 +48,6 @@ Recommender model
 The model file contains a kNN model. The model uses time based content-based filtering (based on item-attributes):
  
 * [src/contentBasedFiltering.java](https://github.com/shuchitgandhi/bookRecommendation/blob/master/src/contentBasedFiltering.java)
-    
-Authorship
--------------
 
 ## Authors
 
